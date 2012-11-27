@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings
+target
+
+#GEdit temp files
+*~
